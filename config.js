@@ -17,7 +17,7 @@ function convertToBool(text, fault = 'true') {
 global.SESSION_ID = 'QueenNilu;;;cyo1UKgJ#jdXYiVbhAlYtzemGVG095Ts5mW1h47JxjZhnhfCsloI' // 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = 'postgres://vidura_user:ks64q0LRGT6uzLXCF69GAVGtlXmWB7yh@dpg-ckv0ljramefc73d698f0-a.frankfurt-postgres.render.com/vidura'
+global.POSTGRESQL_URL = 'postgres://vidura_71qz_user:vtmhrRiu7Uy8p1sultUDcoPVoWkv9LGj@dpg-ckv235mb0mos73e6vk3g-a.frankfurt-postgres.render.com/vidura_71qz'
 
  
 
